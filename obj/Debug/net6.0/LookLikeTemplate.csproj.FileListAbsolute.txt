@@ -1,0 +1,14 @@
+C:\Users\tasnim.anjum\source\repos\LookLikeTemplate\bin\Debug\net6.0\LookLikeTemplate.exe
+C:\Users\tasnim.anjum\source\repos\LookLikeTemplate\bin\Debug\net6.0\LookLikeTemplate.deps.json
+C:\Users\tasnim.anjum\source\repos\LookLikeTemplate\bin\Debug\net6.0\LookLikeTemplate.runtimeconfig.json
+C:\Users\tasnim.anjum\source\repos\LookLikeTemplate\bin\Debug\net6.0\LookLikeTemplate.dll
+C:\Users\tasnim.anjum\source\repos\LookLikeTemplate\bin\Debug\net6.0\LookLikeTemplate.pdb
+C:\Users\tasnim.anjum\source\repos\LookLikeTemplate\obj\Debug\net6.0\LookLikeTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tasnim.anjum\source\repos\LookLikeTemplate\obj\Debug\net6.0\LookLikeTemplate.AssemblyInfoInputs.cache
+C:\Users\tasnim.anjum\source\repos\LookLikeTemplate\obj\Debug\net6.0\LookLikeTemplate.AssemblyInfo.cs
+C:\Users\tasnim.anjum\source\repos\LookLikeTemplate\obj\Debug\net6.0\LookLikeTemplate.csproj.CoreCompileInputs.cache
+C:\Users\tasnim.anjum\source\repos\LookLikeTemplate\obj\Debug\net6.0\LookLikeTemplate.dll
+C:\Users\tasnim.anjum\source\repos\LookLikeTemplate\obj\Debug\net6.0\refint\LookLikeTemplate.dll
+C:\Users\tasnim.anjum\source\repos\LookLikeTemplate\obj\Debug\net6.0\LookLikeTemplate.pdb
+C:\Users\tasnim.anjum\source\repos\LookLikeTemplate\obj\Debug\net6.0\LookLikeTemplate.genruntimeconfig.cache
+C:\Users\tasnim.anjum\source\repos\LookLikeTemplate\obj\Debug\net6.0\ref\LookLikeTemplate.dll

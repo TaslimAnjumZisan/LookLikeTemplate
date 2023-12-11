@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LookLikeTemplate", "LookLikeTemplate.csproj", "{96BAB484-7A5F-421D-81A4-9330B386BD8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96BAB484-7A5F-421D-81A4-9330B386BD8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96BAB484-7A5F-421D-81A4-9330B386BD8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96BAB484-7A5F-421D-81A4-9330B386BD8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96BAB484-7A5F-421D-81A4-9330B386BD8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {669254C0-735C-4B41-9C52-952E8A19F331}
+	EndGlobalSection
+EndGlobal
